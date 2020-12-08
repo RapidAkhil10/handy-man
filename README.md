@@ -40,6 +40,6 @@ helpers.
 
   2. Google Firebase – Cloud Firestore (for database and management) 
 
-* PROJECT HOSTED ON GITHUB: https://wslord.github.io/HandyMan/
+* PROJECT HOSTED ON GITHUB:  https://rapidakhil10.github.io/handy-man/
 
 
