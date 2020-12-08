@@ -21,6 +21,7 @@ var firebaseConfig = {
   //var docRef = firestore.collection("Users").doc(email.value);
 
   login.addEventListener("click", e => {
+      console.log("Logged in successfully");
     e.preventDefault();
 
     const promise = auth.signInWithEmailAndPassword(email.value, pass.value)
