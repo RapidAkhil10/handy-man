@@ -42,9 +42,4 @@ helpers.
 
 * PROJECT HOSTED ON GITHUB: https://wslord.github.io/HandyMan/
 
-* TEAM DETAILS:
-  Name: Brutal Developers  
-  1.  Priyanshu Gupta 20194086 
-  2.  Ishan Khan  20198068 
-  3.  Harsh Gyanchandani  20198039 
-  4.  Ayush Yadav 20194111 
+
