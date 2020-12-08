@@ -1,12 +1,11 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyCL2v8R6NdJIIXraLLrpIpISbn-xUv5pCo",
-    authDomain: "handyman-1742c.firebaseapp.com",
-    databaseURL: "https://handyman-1742c.firebaseio.com",
-    projectId: "handyman-1742c",
-    storageBucket: "handyman-1742c.appspot.com",
-    messagingSenderId: "728193362142",
-    appId: "1:728193362142:web:a7b38a519c2c106ae8ba4f",
-    measurementId: "G-6DDTBN6137"
+    apiKey: "AIzaSyBf--OxQVMNwWvytd4jKLVs_CQsq6OxNzE",
+    authDomain: "handyman-rapidakhil10.firebaseapp.com",
+    projectId: "handyman-rapidakhil10",
+    storageBucket: "handyman-rapidakhil10.appspot.com",
+    messagingSenderId: "451869164523",
+    appId: "1:451869164523:web:b1d12e653686208e6ccfae",
+    measurementId: "G-R73E6554SN"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
